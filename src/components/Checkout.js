@@ -45,7 +45,7 @@ const Checkout = () => {
    setcountry("");
    setdate("");
    setexp("");
-   settotal("")
+   settotal(0)
   }
   return (
     <div className='ch-container'>
